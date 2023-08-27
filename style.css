@@ -140,3 +140,10 @@ body {
     color: #e5e7eb;
     border-color: #e5e7eb;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 48px;
+    text-align: center;
+}
