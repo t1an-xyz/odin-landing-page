@@ -113,3 +113,30 @@ body {
     font-weight: bold;
     text-align: right;
 }
+
+.container {
+    padding: 64px 20%;
+}
+.banner {
+    background-color: #3882f6;
+    padding: 32px;
+    display: flex;
+    justify-content: space-between;
+    color: #f9faf8;
+    border-radius: 20px;
+}
+.banner p {
+    margin: 0px;
+}
+.banner button {
+    align-self: center;
+    padding: 5px 20px;
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    color: #f9faf8;
+    border-radius: 10px;
+}
+.banner button:hover {
+    color: #e5e7eb;
+    border-color: #e5e7eb;
+}
